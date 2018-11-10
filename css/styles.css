@@ -1,0 +1,20 @@
+body{
+  background-color: #dddddd;
+}
+.header {
+  text-align: center;
+  background-color: #000000;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  color: #ffffff
+}
+.content {
+  text-align: center;
+  color: #000000;
+  padding: 200px;
+}
+#result {
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: italic;
+}
